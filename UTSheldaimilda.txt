@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: utsheldaimilda, Configuration: Debug x64 ------
+1>utsheldaimilda.cpp
+1>utsheldaimilda.vcxproj -> C:\Users\User\source\repos\utsheldaimilda\x64\Debug\utsheldaimilda.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 1:49 PM and took 02.309 seconds ==========
